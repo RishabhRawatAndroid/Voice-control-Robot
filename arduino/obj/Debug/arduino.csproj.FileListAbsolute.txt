@@ -1,0 +1,40 @@
+C:\Users\Rishabh Rawat\Desktop\arduino\arduino\bin\Debug\arduino.exe.config
+C:\Users\Rishabh Rawat\Desktop\arduino\arduino\bin\Debug\arduino.exe
+C:\Users\Rishabh Rawat\Desktop\arduino\arduino\bin\Debug\arduino.pdb
+C:\Users\Rishabh Rawat\Desktop\arduino\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+C:\Users\Rishabh Rawat\Desktop\arduino\arduino\obj\Debug\arduino.Form1.resources
+C:\Users\Rishabh Rawat\Desktop\arduino\arduino\obj\Debug\arduino.Properties.Resources.resources
+C:\Users\Rishabh Rawat\Desktop\arduino\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+C:\Users\Rishabh Rawat\Desktop\arduino\arduino\obj\Debug\arduino.exe
+C:\Users\Rishabh Rawat\Desktop\arduino\arduino\obj\Debug\arduino.pdb
+F:\Project\visual studio project\C# project\Window form application project\arduino voice recog\arduino\bin\Debug\arduino.exe.config
+F:\Project\visual studio project\C# project\Window form application project\arduino voice recog\arduino\obj\Debug\arduino.exe
+F:\Project\visual studio project\C# project\Window form application project\arduino voice recog\arduino\obj\Debug\arduino.pdb
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\bin\Debug\arduino.exe.config
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\obj\Debug\arduino.exe
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\obj\Debug\arduino.pdb
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\bin\Debug\arduino.exe
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\bin\Debug\arduino.pdb
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\obj\Debug\arduino.Form1.resources
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\obj\Debug\arduino.Properties.Resources.resources
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+F:\Project\visual studio project\C# project\arduino voice recog\arduino\obj\Debug\arduino.Form2.resources
+F:\Project\visual studio project\C# project\Window form application project\Arduino voice recog\arduino\bin\Debug\arduino.exe
+F:\Project\visual studio project\C# project\Window form application project\Arduino voice recog\arduino\bin\Debug\arduino.pdb
+F:\Project\visual studio project\C# project\Window form application project\Arduino voice recog\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+F:\Project\visual studio project\C# project\Window form application project\Arduino voice recog\arduino\obj\Debug\arduino.Form1.resources
+F:\Project\visual studio project\C# project\Window form application project\Arduino voice recog\arduino\obj\Debug\arduino.Form2.resources
+F:\Project\visual studio project\C# project\Window form application project\Arduino voice recog\arduino\obj\Debug\arduino.Properties.Resources.resources
+F:\Project\visual studio project\C# project\Window form application project\Arduino voice recog\arduino\obj\Debug\arduino.csproj.GenerateResource.Cache
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\bin\Debug\arduino.exe.config
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\bin\Debug\arduino.exe
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\bin\Debug\arduino.pdb
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\obj\Debug\arduino.csprojResolveAssemblyReference.cache
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\obj\Debug\arduino.Form1.resources
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\obj\Debug\arduino.Form2.resources
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\obj\Debug\arduino.Properties.Resources.resources
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\obj\Debug\arduino.csproj.GenerateResource.cache
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\obj\Debug\arduino.csproj.CoreCompileInputs.cache
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\obj\Debug\arduino.exe
+R:\Project\visual studio project\C# project\Window form application project\Arduino voice recog 1\arduino\obj\Debug\arduino.pdb
